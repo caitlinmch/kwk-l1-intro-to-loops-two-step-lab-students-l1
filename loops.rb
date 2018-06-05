@@ -28,6 +28,7 @@ def dance
   #moves_completed
 end #end while
 end #end methods
+dance
 
 
 
