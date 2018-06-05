@@ -19,7 +19,7 @@
 
 
 def dance 
-  move_completed=10
+  moves_completed=10
   while moves_completed<10 
   puts "To the left, to the left"
   puts " Now walk it by yourself"
